@@ -5,6 +5,9 @@ Meteor Camera Images &amp; Annotations - Sony IMX291
 
 
 
+The images and annotational labels are located here:  https://zenodo.org/records/13340185      
+--mirror:  https://www.kaggle.com/datasets/waynemetcalf/meteor-camera-images-and-annotations-sony-imx291
+Check out some of my work with this dataset:  https://x.com/waynepmetcalf
 
 Meteor Camera Images and annotation labels taken from a stationary Sony IMX29 Meteor camera.
 I collected this data to make a Meteor Camera, using a Yolov5 YOLO model and trained on real data.
