@@ -1,4 +1,4 @@
-# MeteorDataSet - Meteor Camera DataSet for Computer Vision Convolutional Neural Networks Training.
+# A.I. Meteor Data Set - Meteor Camera Data Set for Computer Vision Convolutional Neural Networks Training.
 Meteor Camera Images &amp; Annotations - Sony IMX291
 
 ![vvvv](https://github.com/user-attachments/assets/aa38990b-eba9-49d4-8657-711aaf4cdb2b)
